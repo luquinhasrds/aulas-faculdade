@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Calculadora Simples</title>
+    <style>
+      #calculator {
+        border: 1px solid black;
+        padding: 10px;
+        width: 200px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="calculator">
+      <input type="text" id="result" disabled>
+      <br>
+      <button onclick="calculate('+')">+</button>
+      <button onclick="calculate('-')">-</button>
+      <button onclick="calculate('*')">*</button>
+      <button onclick="calculate('/')">/</button>
+      <br>
+      <button onclick="clearResult()">Clear</button>
+    </div>
+
+    <script>
+      function calculate(operator) {
+        var result = document.getElementById("result").value;
+        var num1 = parseFloat(result);
+        var num2 = parseFloat(prompt("Digite o segundo número:"));
+        var answer;
+
+        switch (operator) {
+          case "+":
+            answer = num1 + num2;
+            break;
+          case "-":
+            answer = num1 - num2;
+            break;
+          case "*":
+            answer = num1 * num2;
+            break;
+          case "/":
+            answer = num1 / num2;
+            break;
+          default:
+            answer = "Operador inválido";
+        }
+
+        document.getElementById("result").value = answer;
+      }
+
+      function clearResult() {
+        document.getElementById("result").value = "";
+      }
+    </script>
+  </body>
+</html>
