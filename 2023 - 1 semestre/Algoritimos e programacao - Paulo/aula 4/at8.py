@@ -1,10 +1,3 @@
-valor_prato = int(input("digite o valor do prato:"))
-valor_com_desconto = int(input("digite o valor do prato no almoco:"))
-print (f"a diferenca dos dois é de: {valor_prato-valor_com_desconto}")
-
-
-
-
-
-
-
+lado = 6
+area = ((6**2)*1.7)/4
+print(f"a area do triangulo é {area}")
