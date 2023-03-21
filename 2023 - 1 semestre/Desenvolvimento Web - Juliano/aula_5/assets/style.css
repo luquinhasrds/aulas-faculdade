@@ -1,0 +1,28 @@
+body {
+    background-image: url(img/Fundo\ borrado\ colorido\ _\ Vetor\ Grátis.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: aliceblue;
+}
+
+hr {
+    color: rgb(4, 255, 0);
+
+}
+
+p {
+    font-size: large;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
