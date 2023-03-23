@@ -26,3 +26,19 @@ h1 {
 h2 {
     font-family: 'Courier New', Courier, monospace;
 }
+
+.fonte{
+    font-family: 'Kanit', sans-serif;
+    list-style-type: none;
+    margin-right: 35px;
+}
+
+p {
+    font-family: 'Kanit', sans-serif;
+}
+
+.foto_perfil {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
