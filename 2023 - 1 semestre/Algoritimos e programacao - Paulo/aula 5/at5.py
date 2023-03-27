@@ -3,7 +3,7 @@ a = float(input("digite a aceleracao do objeto em m/s:"))
 t = float(input("digite o tempo percorrido em segundos:"))
 
 # v0=velocidade inicial  -  a=aceleração  -  t=tempo percorrido
-# formula: s =vo*t+a*t**2/2
+# formula: s=vo*t+a*t**2/2
 
 distancia = v0*t+(a*(t**2))/2 
 
