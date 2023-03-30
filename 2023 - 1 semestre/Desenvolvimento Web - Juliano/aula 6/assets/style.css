@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+}
+
+.estrutura {
+    background-color: white;
+    width: 65%;
+    margin: auto;
+}
+/* cabecalho ----------------------- */
+.cabecalho {
+    font-family: 'Nunito', sans-serif;
+    height: 80px;
+    background-color: rgb(97, 36, 117);
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.cabecalho a{
+    margin: 5px;
+}
+
+.cor{
+    color: black;
+}
+
+/* cabecalho ----------------------- */
+
+/* foto ---------------------------- */
+.perfil {
+    font-family: 'Nunito', sans-serif;
+    height: 200px;
+    
+}
+
+.dados {
+    width: 70%;
+    float: left;
+    
+    text-align: right;
+    padding-top: 60px;
+}
+
+.foto {
+    width: 30%;
+    float: left;
+    
+}
+
+.foto img {
+    padding-top: 20px;
+    padding-left: 10px;
+    width: 160px;
+    height: 160px;
+    border-radius: 80px;
+}
+
+/* foto ---------------------------- */
+
+
+/* obj ----------------------------- */
+.exper{
+    border: 1px solid;
+    width: 70%;
+    float: left;
+    padding: 10px;
+}
+
+.exper h2{
+    text-decoration: underline;
+}
+
+.exper h3, .exper p{
+    padding-left: 10px;
+    text-align: justify;
+}
+
+.tech{
+    border: 1px solid;
+    padding: 10px;
+    width: 23%;
+    float: left;
+}
+
+.tech h2{
+    text-decoration: underline;
+}
+
+.tech p{
+    margin-right: 70px;
+    float: left;
+}
+
+.circulo{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: blueviolet;
+    float: left;
+    margin-top: 4px;
+    
+}
+
+
+/* obj ----------------------------- */
