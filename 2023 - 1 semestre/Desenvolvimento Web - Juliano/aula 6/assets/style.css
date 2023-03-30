@@ -2,12 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: 0;
+    
 }
 body{
     background-image: url(img/fundo\ 3\ code.jpg);
     background-repeat:repeat;
     background-size: cover;
     background-attachment: fixed;
+    
 }
 
 .estrutura {
@@ -90,9 +92,11 @@ body{
 .exper h3, .exper p{
     padding-left: 10px;
     text-align: justify;
+    
 }
 
 .tech{
+    font-family: 'Nunito', sans-serif;
     border-top: 3px solid black;
     padding: 10px;
     width: 24%;
@@ -126,11 +130,13 @@ body{
 /* educacao -----------------------------*/
 
 .educacao{
+    font-family: 'Nunito', sans-serif;
     width: 98.8%;
     height: 200px;
     padding-left: 10px;
     padding-top: 10px;
     border-top: 2px solid black;
+    
 }
 
 .educacao h2{
@@ -140,3 +146,6 @@ body{
 .educacao h4, .educacao p{
     padding-left: 10px;
 } 
+
+
+/* educação -----------------------------*/
