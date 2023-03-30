@@ -1,5 +1,13 @@
 *{
     margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+body{
+    background-image: url(img/fundo\ 3\ code.jpg);
+    background-repeat:repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .estrutura {
@@ -7,11 +15,17 @@
     width: 65%;
     margin: auto;
 }
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
 /* cabecalho ----------------------- */
 .cabecalho {
     font-family: 'Nunito', sans-serif;
     height: 80px;
-    background-color: rgb(97, 36, 117);
+    background-color: blueviolet;
     color: white;
     text-align: center;
     padding-top: 25px;
@@ -60,11 +74,14 @@
 
 
 /* obj ----------------------------- */
+
+
 .exper{
-    border: 1px solid;
-    width: 70%;
+    width: 68%;
     float: left;
     padding: 10px;
+    border-right: 3px solid black;
+    border-top: 3px solid black;
 }
 
 .exper h2{
@@ -77,9 +94,9 @@
 }
 
 .tech{
-    border: 1px solid;
+    border-top: 3px solid black;
     padding: 10px;
-    width: 23%;
+    width: 26%;
     float: left;
 }
 
@@ -88,7 +105,6 @@
 }
 
 .tech p{
-    margin-right: 70px;
     float: left;
 }
 
@@ -97,9 +113,10 @@
     height: 10px;
     border-radius: 50%;
     background-color: blueviolet;
-    float: left;
+    float: right;
     margin-top: 4px;
-    
+    margin-left: 2px;
+
 }
 
 
