@@ -12,3 +12,4 @@ while True:
         print('------SENHA VALIDA------')
     else:
         print('------SENHA INVALIDA------')
+    print('='*30)
