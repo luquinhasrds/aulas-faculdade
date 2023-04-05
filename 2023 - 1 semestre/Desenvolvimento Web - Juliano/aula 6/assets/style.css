@@ -47,12 +47,12 @@ body{
 .perfil {
     font-family: 'Nunito', sans-serif;
     height: 200px;
+    border-bottom: 2px solid;
 }
 
 .dados {
     width: 70%;
     float: left;
-    
     text-align: right;
     padding-top: 60px;
 }
@@ -82,8 +82,6 @@ body{
     width: 70%;
     float: left;
     padding: 10px;
-    border-right: 3px solid black;
-    border-top: 3px solid black;
 }
 
 .exper h2{
@@ -93,16 +91,15 @@ body{
 .exper h3, .exper p{
     padding-left: 10px;
     text-align: justify;
-    
 }
 
 .tech{
     font-family: 'Nunito', sans-serif;
-    border-top: 3px solid black;
     padding: 10px;
-    width: 24%;
+    width: 25%;
     height: 445px;
     float: left;
+    border-left: 2px solid;
 }
 
 .tech h2{
@@ -130,14 +127,15 @@ body{
 
 /* educacao -----------------------------*/
 
-.educacao{
+.educacao {
+    float: left;
     font-family: 'Nunito', sans-serif;
     width: 98.8%;
     height: 200px;
     padding-left: 10px;
     padding-top: 10px;
-    border-top: 2px solid black;
-    
+    background-color: white;
+    border-top: 2px solid;
 }
 
 .educacao h2{
@@ -147,6 +145,10 @@ body{
 .educacao h4, .educacao p{
     padding-left: 10px;
 } 
+
+.limpar{
+    clear: both;
+}
 
 
 /* educação -----------------------------*/
