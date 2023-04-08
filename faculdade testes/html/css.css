@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+}
+
+.linha {
+    clear: both;
+}
+
+body {
+    background-color: #171717;
+    overflow-x: hidden;
+}
+
+
+/* CABECALHO----------------------------------------------------- */
+.cabecalho1 {
+    width: 100%;
+    height: 56px;
+    background-color: #162e58;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+.cabecalho1 p {
+    padding-top: 18px;
+    padding-left: 50px;
+}
+/* CABECALHO----------------------------------------------------- */
+
+/* NAVEGACAO----------------------------------------------------- */
+.nav {
+    width: 100%;
+    height: 48px;
+    background-color: #162e58;
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+}
+
+.nav ul {
+    text-align: center;
+    display: inline-flex;
+    list-style: none;
+    padding-right: 40px;
+}
+
+.nav ul li{
+    width: 150px;
+    padding: 16px 0px 16px;
+    
+}
+
+.nav ul li:hover {
+    background-color: #293F66;
+    border-bottom: 2px solid white;
+}
+
+/* NAVEGACAO----------------------------------------------------- */
+
+/* TEMPORADA----------------------------------------------------- */
+.temporada {
+    margin: auto;
+    margin-top: 4px;
+    width: 61.5%;
+    height: 58.67px;
+    background-color: #303134;
+    color: #9aa0a6;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+}
+
+.data {
+    margin-top: 5px;
+    font-size: 14px;
+    color: #4487f6;
+    font-weight: bold;
+}
+
+.temp_titulos {
+    width: 65px;
+    padding: 10px 24px 10px;
+}
+
+/* CLASSIFICACAO----------------------------------------------------- */
+.classificacao {
+    width: 61.5%;
+    margin: auto;
+    background-color: #202124;
+    color: #bdc1c6;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.h3grupos {
+    margin: 0px 0px 8px 16px;
+    padding-top: 18px;
+}
+/* CLASSIFICACAO----------------------------------------------------- */
+
+table {
+    width: 100%;
+    border: 1px solid;
+    border-collapse: collapse;
+    
+    font-family: Arial, sans-serif;
+}
+
+table th{
+    border-top: 1px solid #dadec0;
+    font-weight: 100;
+    font-size: 12px;
+    color: #70758d;
+    padding: 4px;
+    height: 35px;
+}
+
+table td{
+    border: 1px solid #dadec0;
+    font-weight: 100;
+    color: white;
+    padding: 4px;
+    height: 20px;
+    font-size: 14px;
+}
+
+table img{
+    width: 24px;
+    border: 1px solid;
+}
+
+.titulo-times{
+    width: 50%;
+    text-align: left;
+}
