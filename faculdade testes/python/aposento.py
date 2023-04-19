@@ -68,7 +68,7 @@ while True:
             print(f'Nome: {consulta["nome"]}')
             print(f'Sexo: {consulta["sexo"]}')
             print(f'Idade: {consulta["idade"]}')
-            print(f'Tempo de contribuição: {consulta["contribuicao"]}')
+            print(f'Tempo de contribuição: {consulta["contribuicao"]} anos')
             if consulta['aposento']:
                 print('PODE SE APOSENTAR')
 
