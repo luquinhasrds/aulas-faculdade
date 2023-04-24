@@ -54,7 +54,7 @@ while True:
             'aposento':aposentado
         }
         consultas.append(consulta)
-    #continuacao da opcao 1 do menu------------------------------
+    #continuacao da opcao 1 do menu-----------------------------------------------------
     elif opcao == 2:
         if n_da_consulta == 0:
             print('-----SEM CONSULTAS NO MOMENTO-----')
@@ -76,7 +76,7 @@ while True:
                 print('NÃO PODE SE APOSENTAR.')
                 
             print('='*60)
-    #SAIR DO PROGRAMA --------------------------------------------------
+    #SAIR DO PROGRAMA -----------------------------------------------------------------
     elif opcao == 0:
         print('Saindo do programa.....')
         sleep(1.5)
