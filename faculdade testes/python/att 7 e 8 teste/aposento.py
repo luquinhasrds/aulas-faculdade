@@ -1,7 +1,7 @@
+import os
 from time import sleep
 n_da_consulta = 0
 consultas = []
-
 while True:
     #opcoes para escolha ------------------------------------------------------------
     print('----Escolha uma opção----')
@@ -16,8 +16,12 @@ while True:
         '''
     )
     #LE A OPCAO QUE O USUARIO ESCOLHEU
-    opcao = int(input('Digite qual a opção desejada: '))
-    
+    try:
+        opcao = int(input('Digite qual a opção desejada: '))
+    except ValueError:
+        print('SELECIONE UMA DAS OPÇÕES ACIMA CARAIO')
+        sleep(1.5)
+        continue
     if opcao == 1:
         #informacoes para fazer a consulta ----------------------------------------------
         print('-'*15)
@@ -30,7 +34,6 @@ while True:
             sexo = 'Feminino'
         idade = int(input("Idade: "))
         contribuicao = int(input("Tempo de contribuição (ANOS): "))
-
         #if e else se pode ou nao se aposentar ------------------------------------------
         if (sexo == 'Masculino' and contribuicao >= 30 and idade >= 55) or (sexo == 'Feminino' and contribuicao >=35 and idade >= 60):
             print(f"{nome} pode se aposentar.")
@@ -42,7 +45,6 @@ while True:
             aposentado = False
             print('='*60)
             sleep(1.5)
-
         #dicionario das informacoes ----------------------------------------------------
         n_da_consulta += 1 
         consulta = {
