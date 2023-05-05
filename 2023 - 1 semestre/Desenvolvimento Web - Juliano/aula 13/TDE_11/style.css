@@ -157,14 +157,12 @@ footer {
     }
 
     .projetos {
-        display: flex;
+        
         flex-direction: column;
-        text-align: center;
+        align-items: center;
     }
-    .projeto {
-        width: 100%;
     }
-}
+
 @media screen and (max-width: 450px) {
     footer {
         flex-direction: column;
