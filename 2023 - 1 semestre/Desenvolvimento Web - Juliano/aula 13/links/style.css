@@ -1,0 +1,43 @@
+html{
+    scroll-behavior: smooth;
+}
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 20vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+nav{
+    position: sticky;
+    top: 0;
+    height: 10vh;
+    background-color: #333;
+    color: white;
+    padding-top: 18px;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+nav ul a{
+    color: white;
+    text-decoration: none;
+}
+section{
+    border: 3px solid;
+    height: 100vh;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+section:target {
+    padding-top: 10vh;
+}

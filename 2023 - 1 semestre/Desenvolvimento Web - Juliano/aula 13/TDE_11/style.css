@@ -1,0 +1,176 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    padding-left: 20px;
+    justify-content: space-between;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 31px;
+}
+
+nav li {
+    margin: 0 20px;
+    display: inline;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+}
+
+nav a:hover {
+    background-color: #fff;
+    color: #333;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+
+section {
+    margin: 20px 0;
+    width: 100%;
+    max-width: 1000px;
+}
+
+section h2 {
+    text-align: center;
+}
+.foto img{
+    width: 300px;
+    border-radius: 10px;
+    min-width: 290px;
+}
+
+.foto img:hover{
+    border: 2px solid white;
+    box-shadow: 0 0 5px #fff;
+}
+.about{
+    padding: 20px;
+    display: flex;
+}
+.text{
+    padding: 20px;
+    text-align: justify;
+}
+
+.projetos{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.projeto {
+    width: 29%;
+    margin: 20px 2%;
+}
+
+.projeto img {
+    max-width: 100%;
+    height: auto;
+    min-width: 290px;
+    height: 154px;
+}
+
+.projeto h3 {
+    margin: 10px 0;
+    text-align: center;
+}
+
+.projeto p {
+    text-align: justify;
+}
+
+.projeto img:hover{
+    border: 1px solid white;
+}
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin: 10px 0;
+}
+
+form input,
+form textarea {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #fff;
+    color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+@media screen and (max-width: 800px) {
+    header {
+    flex-direction: column;
+    align-items: center;
+    }
+    .about{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .projetos {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .projeto {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 450px) {
+    footer {
+        flex-direction: column;
+        justify-content: center;
+    }
+    html{
+        font-size: 80%;
+    }
+}
