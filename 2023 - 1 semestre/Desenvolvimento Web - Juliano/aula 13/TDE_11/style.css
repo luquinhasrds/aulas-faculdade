@@ -83,6 +83,7 @@ section h2 {
 .projeto {
     width: 29%;
     margin: 20px 2%;
+    
 }
 
 .projeto img {
@@ -157,9 +158,15 @@ footer {
     }
 
     .projetos {
-        
         flex-direction: column;
+        text-align: center;
         align-items: center;
+    }
+    .projeto{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 50%;
     }
     }
 
