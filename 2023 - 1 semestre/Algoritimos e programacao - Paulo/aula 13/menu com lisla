@@ -1,0 +1,34 @@
+pedido = []
+
+while True:
+    print('TERMINAL DE VENDAS')
+    print('menu de produtos')
+    print(
+        '''
+        [1] agua
+        [2] refri
+        [3] cafe
+        [4] pao de queijo
+        [5] IMPRIMIR LISTA
+        [6] ENCERRAR VENDA
+        [7] SAIR
+        '''
+    )
+
+    opc = int(input('DIGITE O CODIGO DO PRODUTO: '))
+    if opc == 1:
+        pedido.append(3.00)
+    elif opc == 2:
+        pedido.append(6.00)
+    elif opc == 3:
+        pedido.append(5.00)
+    elif opc == 4:
+        pedido.append(10.00)
+    elif opc == 5:
+        print(pedido)
+    elif opc == 6:
+        print(sum(pedido))
+    elif opc == 7:
+        break
+    else:
+        print('DIGITE UMA OPÇAO VALIDA!!!!!')
