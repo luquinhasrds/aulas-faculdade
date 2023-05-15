@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+.borda{
+    overflow: hidden;
+    transition: transform .5s ease;
+    transition: all 0.5s;
+
+}
+.borda:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 0px 10px 0px #4e4e4e;
+    cursor: pointer;
+}
+
+.hoverr a{
+    color: black;
+    transition: all 0.5s;
+}
+.hoverr a:hover{ 
+    text-decoration: underline red;
+    color: red;
+    
+}  
+
+.ver_mais:hover a{
+    background-color: rgb(246, 44, 44);
+    transition: all 0.5s;
+}
