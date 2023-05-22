@@ -36,7 +36,7 @@ while True:
         print('-'*60)
         lista.clear()
         elementos = int(input('digite de quantos elementos vai ser sua lista: '))
-        at  t = [int(input('digite os elementos que desejar um a um: '))for _ in range(elementos)]
+        att = [int(input('digite os elementos que desejar um a um: '))for _ in range(elementos)]
         lista.append(att)
         print(f'aqui é a sua nova lista {lista}')
         print('-'*60)
