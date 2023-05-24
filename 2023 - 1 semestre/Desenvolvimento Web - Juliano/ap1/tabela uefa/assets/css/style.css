@@ -125,6 +125,7 @@ table img{
 }
 
 .gols td {
+    border-top: 1px solid #70757a;
     padding-top: 10px;
 }
 
