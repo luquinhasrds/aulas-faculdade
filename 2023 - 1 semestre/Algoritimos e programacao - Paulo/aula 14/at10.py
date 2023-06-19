@@ -1,4 +1,4 @@
-#Escreva um programa que receba uma lista de números do usuário e imprima
+#Escreva um programa que receba uma lista de números do usuário e retorne uma lista com
 #apenas os números que são múltiplos de 3 e 5 simultaneamente.
 
 lista = []
@@ -11,7 +11,7 @@ while True:
         break
     lista.append(int(att))
 
-for num in lista:
-    if num %3 == 0 and num %5 == 0:
-        print(num)
+for numeros in lista:
+    if numeros %3 == 0 and numeros %5 == 0:
+        print(numeros)
         print('-'*30)

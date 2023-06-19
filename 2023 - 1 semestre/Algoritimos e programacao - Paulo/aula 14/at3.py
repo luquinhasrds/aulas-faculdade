@@ -1,5 +1,5 @@
-#Escreva um programa que receba uma lista de números do usuário e retorne o maior número
-#presente na lista.
+#Escreva um programa que receba uma lista de números do usuário e retorne a soma de todos os
+#números presentes na lista.
 
 lista = []
 
@@ -11,4 +11,4 @@ while True:
         break
     lista.append(int(att))
 
-print(f'o maior numero da lista é {max(lista)}')
+print(f'a soma dos numeros é {sum(lista)}')
