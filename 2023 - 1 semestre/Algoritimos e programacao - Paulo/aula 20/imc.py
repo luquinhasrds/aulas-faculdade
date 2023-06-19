@@ -5,7 +5,7 @@ data_formatado = data.strftime('%m/%d/%y, %H:%M:%S')
 
 #dados
 print('Digite os seus dados: ')
-idade = int(input('Sua idade: '))
+nome = input('Seu nome: ')
 altura = float(input('Sua altura (separado com "."): '))
 peso = float(input('Seu peso: '))
 
@@ -15,5 +15,5 @@ print('-'*60)
 print('Dados do usuario:')
 print('-'*60)
 print(f'Data da consulta: {data_formatado}')
-print(f'---Idade do usuario: {idade} anos---')
+print(f'---Idade do usuario: {nome}---')
 print(f'---IMC do usuario: {imc}---')
