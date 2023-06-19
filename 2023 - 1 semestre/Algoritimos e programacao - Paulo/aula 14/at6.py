@@ -1,5 +1,5 @@
-#Escreva um programa que receba uma lista de números do usuário e imprima
-#apenas os números que são múltiplos de 3 e 5 simultaneamente.
+#Escreva um programa que receba uma lista de números do usuário e retorne uma lista com
+#apenas os números pares presentes na lista.
 
 lista = []
 
@@ -11,7 +11,7 @@ while True:
         break
     lista.append(int(att))
 
-for num in lista:
-    if num %3 == 0 and num %5 == 0:
-        print(num)
+for par in lista:
+    if par %2 ==0:
+        print(f'os numeros pares nao {par}')
         print('-'*30)

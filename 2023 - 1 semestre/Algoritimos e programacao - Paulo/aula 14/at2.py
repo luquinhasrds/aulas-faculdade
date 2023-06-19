@@ -1,4 +1,4 @@
-#Escreva um programa que receba uma lista de números do usuário e retorne o maior número
+#Escreva um programa que receba uma lista de números do usuário e retorne o menor número
 #presente na lista.
 
 lista = []
@@ -11,4 +11,4 @@ while True:
         break
     lista.append(int(att))
 
-print(f'o maior numero da lista é {max(lista)}')
+print(f'o menor numero da lista é {min(lista)}')
