@@ -9,28 +9,29 @@
 <body>
     <header>
         <h1>Lista de tarefas</h1>
+        
     </header>
+    <button type="button" onclick="mudacor()">mudar de cor</button>
+    <form>
+        <label for="tarefa">Nome da Tarefa</label>
+        <input id="tarefa" type="text">
+        <button type="button" onclick="adicionar()">Adicionar</button>
+    </form>
     <section>
-        <form>
-            <label for="tarefa">Nome da Tarefa</label>
-            <input id="tarefa" type="text">
-            <button type="button" onclick="adicionar()">Adicionar</button>
-        </form>
         <h2>Tarefas pendentes</h2>
         <ol id="pendentes">
-
+            
         </ol>
-
     </section>
-
     <section>
-        <h2>tarefas concluidas</h2>
+        <h2>Tarefas concluidas</h2>
         <ol id="concluidas">
-
+            
         </ol>
     </section>
+    <div class="limpar"></div>
 
-
+    
 
     <script src="script.js"></script>
 </body>
