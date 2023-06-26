@@ -34,6 +34,7 @@ function adicionar() {
     document.getElementById('tarefa').focus()
 }
 
+//funcao para mudar de cor
 function mudacor(){
     const body = document.querySelector('body')
     body.classList.toggle('fundo') //Adiciona e remove
