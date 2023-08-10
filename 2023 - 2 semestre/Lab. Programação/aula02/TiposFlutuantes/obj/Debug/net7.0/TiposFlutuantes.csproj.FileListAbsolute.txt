@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TiposFlutuantes\bin\Debug\net7.0\TiposFlutuantes.exe
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TiposFlutuantes\bin\Debug\net7.0\TiposFlutuantes.deps.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TiposFlutuantes\bin\Debug\net7.0\TiposFlutuantes.runtimeconfig.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TiposFlutuantes\bin\Debug\net7.0\TiposFlutuantes.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TiposFlutuantes\bin\Debug\net7.0\TiposFlutuantes.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TiposFlutuantes\obj\Debug\net7.0\TiposFlutuantes.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TiposFlutuantes\obj\Debug\net7.0\TiposFlutuantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TiposFlutuantes\obj\Debug\net7.0\TiposFlutuantes.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TiposFlutuantes\obj\Debug\net7.0\TiposFlutuantes.AssemblyInfo.cs
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TiposFlutuantes\obj\Debug\net7.0\TiposFlutuantes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TiposFlutuantes\obj\Debug\net7.0\TiposFlutuantes.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TiposFlutuantes\obj\Debug\net7.0\refint\TiposFlutuantes.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TiposFlutuantes\obj\Debug\net7.0\TiposFlutuantes.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TiposFlutuantes\obj\Debug\net7.0\TiposFlutuantes.genruntimeconfig.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TiposFlutuantes\obj\Debug\net7.0\ref\TiposFlutuantes.dll

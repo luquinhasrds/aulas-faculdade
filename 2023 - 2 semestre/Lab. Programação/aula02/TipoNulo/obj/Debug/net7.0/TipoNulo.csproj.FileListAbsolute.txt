@@ -1,0 +1,5 @@
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TipoNulo\obj\Debug\net7.0\TipoNulo.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TipoNulo\obj\Debug\net7.0\TipoNulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TipoNulo\obj\Debug\net7.0\TipoNulo.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TipoNulo\obj\Debug\net7.0\TipoNulo.AssemblyInfo.cs
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula02\TipoNulo\obj\Debug\net7.0\TipoNulo.csproj.CoreCompileInputs.cache
