@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula03\aula03\bin\Debug\net7.0\aula03.exe
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula03\aula03\bin\Debug\net7.0\aula03.deps.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula03\aula03\bin\Debug\net7.0\aula03.runtimeconfig.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula03\aula03\bin\Debug\net7.0\aula03.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula03\aula03\bin\Debug\net7.0\aula03.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula03\aula03\obj\Debug\net7.0\aula03.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula03\aula03\obj\Debug\net7.0\aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula03\aula03\obj\Debug\net7.0\aula03.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula03\aula03\obj\Debug\net7.0\aula03.AssemblyInfo.cs
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula03\aula03\obj\Debug\net7.0\aula03.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula03\aula03\obj\Debug\net7.0\aula03.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula03\aula03\obj\Debug\net7.0\refint\aula03.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula03\aula03\obj\Debug\net7.0\aula03.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula03\aula03\obj\Debug\net7.0\aula03.genruntimeconfig.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula03\aula03\obj\Debug\net7.0\ref\aula03.dll

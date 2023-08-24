@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula04 - atividades\atividade01\obj\Debug\net7.0\atividade01.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula04 - atividades\atividade01\obj\Debug\net7.0\atividade01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula04 - atividades\atividade01\obj\Debug\net7.0\atividade01.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula04 - atividades\atividade01\obj\Debug\net7.0\atividade01.AssemblyInfo.cs
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula04 - atividades\atividade01\obj\Debug\net7.0\atividade01.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula04 - atividades\atividade01\bin\Debug\net7.0\atividade01.exe
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula04 - atividades\atividade01\bin\Debug\net7.0\atividade01.deps.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula04 - atividades\atividade01\bin\Debug\net7.0\atividade01.runtimeconfig.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula04 - atividades\atividade01\bin\Debug\net7.0\atividade01.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula04 - atividades\atividade01\bin\Debug\net7.0\atividade01.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula04 - atividades\atividade01\obj\Debug\net7.0\atividade01.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula04 - atividades\atividade01\obj\Debug\net7.0\refint\atividade01.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula04 - atividades\atividade01\obj\Debug\net7.0\atividade01.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula04 - atividades\atividade01\obj\Debug\net7.0\atividade01.genruntimeconfig.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula04 - atividades\atividade01\obj\Debug\net7.0\ref\atividade01.dll
