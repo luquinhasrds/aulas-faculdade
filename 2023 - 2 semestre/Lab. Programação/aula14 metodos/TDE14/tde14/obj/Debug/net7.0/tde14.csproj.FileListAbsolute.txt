@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula14 metodos\TDE14\tde14\bin\Debug\net7.0\tde14.exe
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula14 metodos\TDE14\tde14\bin\Debug\net7.0\tde14.deps.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula14 metodos\TDE14\tde14\bin\Debug\net7.0\tde14.runtimeconfig.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula14 metodos\TDE14\tde14\bin\Debug\net7.0\tde14.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula14 metodos\TDE14\tde14\bin\Debug\net7.0\tde14.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula14 metodos\TDE14\tde14\obj\Debug\net7.0\tde14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula14 metodos\TDE14\tde14\obj\Debug\net7.0\tde14.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula14 metodos\TDE14\tde14\obj\Debug\net7.0\tde14.AssemblyInfo.cs
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula14 metodos\TDE14\tde14\obj\Debug\net7.0\tde14.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula14 metodos\TDE14\tde14\obj\Debug\net7.0\tde14.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula14 metodos\TDE14\tde14\obj\Debug\net7.0\refint\tde14.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula14 metodos\TDE14\tde14\obj\Debug\net7.0\tde14.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula14 metodos\TDE14\tde14\obj\Debug\net7.0\tde14.genruntimeconfig.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula14 metodos\TDE14\tde14\obj\Debug\net7.0\ref\tde14.dll

@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula07\simulado_ap1\bin\Debug\net7.0\simulado_ap1.exe
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula07\simulado_ap1\bin\Debug\net7.0\simulado_ap1.deps.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula07\simulado_ap1\bin\Debug\net7.0\simulado_ap1.runtimeconfig.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula07\simulado_ap1\bin\Debug\net7.0\simulado_ap1.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula07\simulado_ap1\bin\Debug\net7.0\simulado_ap1.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula07\simulado_ap1\obj\Debug\net7.0\simulado_ap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula07\simulado_ap1\obj\Debug\net7.0\simulado_ap1.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula07\simulado_ap1\obj\Debug\net7.0\simulado_ap1.AssemblyInfo.cs
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula07\simulado_ap1\obj\Debug\net7.0\simulado_ap1.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula07\simulado_ap1\obj\Debug\net7.0\simulado_ap1.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula07\simulado_ap1\obj\Debug\net7.0\refint\simulado_ap1.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula07\simulado_ap1\obj\Debug\net7.0\simulado_ap1.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula07\simulado_ap1\obj\Debug\net7.0\simulado_ap1.genruntimeconfig.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula07\simulado_ap1\obj\Debug\net7.0\ref\simulado_ap1.dll
