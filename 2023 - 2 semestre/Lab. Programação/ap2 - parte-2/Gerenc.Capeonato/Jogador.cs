@@ -1,10 +1,14 @@
-class Jogador{
-    public string? Nome;
-    public string? NickName;
-    public int Pontos;
+public class Jogador{
+    public string? nome;
+    public string? nickName;
+    public int pontos;
 
     public void Jogar(){
         Random rand = new Random();
-        Pontos = rand.Next(1, 101);
+        pontos = rand.Next(1, 101);
+    }
+
+    public void ExibirPontos(){
+        Console.WriteLine($"{nome} tem {pontos} pontos.");
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\ap2 - parte-2\Gerenc.Capeonato\bin\Debug\net7.0\Gerenc.Capeonato.exe
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\ap2 - parte-2\Gerenc.Capeonato\bin\Debug\net7.0\Gerenc.Capeonato.deps.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\ap2 - parte-2\Gerenc.Capeonato\bin\Debug\net7.0\Gerenc.Capeonato.runtimeconfig.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\ap2 - parte-2\Gerenc.Capeonato\bin\Debug\net7.0\Gerenc.Capeonato.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\ap2 - parte-2\Gerenc.Capeonato\bin\Debug\net7.0\Gerenc.Capeonato.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\ap2 - parte-2\Gerenc.Capeonato\obj\Debug\net7.0\Gerenc.Capeonato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\ap2 - parte-2\Gerenc.Capeonato\obj\Debug\net7.0\Gerenc.Capeonato.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\ap2 - parte-2\Gerenc.Capeonato\obj\Debug\net7.0\Gerenc.Capeonato.AssemblyInfo.cs
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\ap2 - parte-2\Gerenc.Capeonato\obj\Debug\net7.0\Gerenc.Capeonato.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\ap2 - parte-2\Gerenc.Capeonato\obj\Debug\net7.0\Gerenc.Capeonato.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\ap2 - parte-2\Gerenc.Capeonato\obj\Debug\net7.0\refint\Gerenc.Capeonato.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\ap2 - parte-2\Gerenc.Capeonato\obj\Debug\net7.0\Gerenc.Capeonato.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\ap2 - parte-2\Gerenc.Capeonato\obj\Debug\net7.0\Gerenc.Capeonato.genruntimeconfig.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\ap2 - parte-2\Gerenc.Capeonato\obj\Debug\net7.0\ref\Gerenc.Capeonato.dll
