@@ -7,8 +7,4 @@ public class Jogador{
         Random rand = new Random();
         pontos = rand.Next(1, 101);
     }
-
-    public void ExibirPontos(){
-        Console.WriteLine($"{nome} tem {pontos} pontos.");
-    }
 }
