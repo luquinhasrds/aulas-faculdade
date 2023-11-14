@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula17\aula17\bin\Debug\net7.0\aula17.exe
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula17\aula17\bin\Debug\net7.0\aula17.deps.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula17\aula17\bin\Debug\net7.0\aula17.runtimeconfig.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula17\aula17\bin\Debug\net7.0\aula17.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula17\aula17\bin\Debug\net7.0\aula17.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula17\aula17\obj\Debug\net7.0\aula17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula17\aula17\obj\Debug\net7.0\aula17.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula17\aula17\obj\Debug\net7.0\aula17.AssemblyInfo.cs
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula17\aula17\obj\Debug\net7.0\aula17.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula17\aula17\obj\Debug\net7.0\aula17.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula17\aula17\obj\Debug\net7.0\refint\aula17.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula17\aula17\obj\Debug\net7.0\aula17.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula17\aula17\obj\Debug\net7.0\aula17.genruntimeconfig.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula17\aula17\obj\Debug\net7.0\ref\aula17.dll

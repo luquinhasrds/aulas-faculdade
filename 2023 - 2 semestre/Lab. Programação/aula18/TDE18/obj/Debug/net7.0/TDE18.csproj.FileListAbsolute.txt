@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula18\TDE18\bin\Debug\net7.0\TDE18.exe
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula18\TDE18\bin\Debug\net7.0\TDE18.deps.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula18\TDE18\bin\Debug\net7.0\TDE18.runtimeconfig.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula18\TDE18\bin\Debug\net7.0\TDE18.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula18\TDE18\bin\Debug\net7.0\TDE18.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula18\TDE18\obj\Debug\net7.0\TDE18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula18\TDE18\obj\Debug\net7.0\TDE18.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula18\TDE18\obj\Debug\net7.0\TDE18.AssemblyInfo.cs
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula18\TDE18\obj\Debug\net7.0\TDE18.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula18\TDE18\obj\Debug\net7.0\TDE18.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula18\TDE18\obj\Debug\net7.0\refint\TDE18.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula18\TDE18\obj\Debug\net7.0\TDE18.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula18\TDE18\obj\Debug\net7.0\TDE18.genruntimeconfig.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\aula18\TDE18\obj\Debug\net7.0\ref\TDE18.dll
