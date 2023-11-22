@@ -1,3 +1,5 @@
+
+
 class Animal{
     public string? Nome {get; set;}
     public int Idade {get; set;}
@@ -8,8 +10,8 @@ class Animal{
         Idade = idade;
         NumeroDePatas = numeroDePatas;
     }
-    public virtual string emitirSom(){
-        return "som de um animal";
+    public virtual void emitirSom(){
+        Console.WriteLine("som de um animal");
     }
     protected void numeroDePatas(){
         Console.WriteLine($"esse animal tem {NumeroDePatas} patas.");
@@ -20,10 +22,9 @@ class Cachorro : Animal{
     public Cachorro(string nome, int idade) : base(nome, idade, 4){
         Console.WriteLine($"Um novo cachorro chamado {nome} foi criado!");
     }
-    public override string emitirSom(){
+    public override void emitirSom(){
         numeroDePatas();
         Console.WriteLine($"o {Nome} esta miando");
-        return "";
     }
 }
 
@@ -32,9 +33,10 @@ class Gato : Animal{
 
         Console.WriteLine($"Um novo gato chamado {nome} foi criado!");
     }
-    public override string emitirSom(){
+    public override void emitirSom(){
         numeroDePatas();
         Console.WriteLine($"o {Nome} esta miando");
-        return "";
     }
 }
+
+
