@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT10\bin\Debug\net7.0\AT10.exe
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT10\bin\Debug\net7.0\AT10.deps.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT10\bin\Debug\net7.0\AT10.runtimeconfig.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT10\bin\Debug\net7.0\AT10.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT10\bin\Debug\net7.0\AT10.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT10\obj\Debug\net7.0\AT10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT10\obj\Debug\net7.0\AT10.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT10\obj\Debug\net7.0\AT10.AssemblyInfo.cs
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT10\obj\Debug\net7.0\AT10.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT10\obj\Debug\net7.0\AT10.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT10\obj\Debug\net7.0\refint\AT10.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT10\obj\Debug\net7.0\AT10.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT10\obj\Debug\net7.0\AT10.genruntimeconfig.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT10\obj\Debug\net7.0\ref\AT10.dll

@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT4\bin\Debug\net7.0\AT4.exe
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT4\bin\Debug\net7.0\AT4.deps.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT4\bin\Debug\net7.0\AT4.runtimeconfig.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT4\bin\Debug\net7.0\AT4.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT4\bin\Debug\net7.0\AT4.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT4\obj\Debug\net7.0\AT4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT4\obj\Debug\net7.0\AT4.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT4\obj\Debug\net7.0\AT4.AssemblyInfo.cs
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT4\obj\Debug\net7.0\AT4.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT4\obj\Debug\net7.0\AT4.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT4\obj\Debug\net7.0\refint\AT4.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT4\obj\Debug\net7.0\AT4.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT4\obj\Debug\net7.0\AT4.genruntimeconfig.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT4\obj\Debug\net7.0\ref\AT4.dll

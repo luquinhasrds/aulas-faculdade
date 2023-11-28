@@ -30,7 +30,7 @@ class Cachorro : Animal{
 
 class Gato : Animal{
     public Gato(string nome, int idade) : base(nome, idade, 4){
-
+x
         Console.WriteLine($"Um novo gato chamado {nome} foi criado!");
     }
     public override void emitirSom(){

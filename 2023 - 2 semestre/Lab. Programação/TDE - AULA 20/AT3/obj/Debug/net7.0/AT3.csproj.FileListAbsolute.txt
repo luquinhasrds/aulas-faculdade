@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT3\bin\Debug\net7.0\AT3.exe
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT3\bin\Debug\net7.0\AT3.deps.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT3\bin\Debug\net7.0\AT3.runtimeconfig.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT3\bin\Debug\net7.0\AT3.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT3\bin\Debug\net7.0\AT3.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT3\obj\Debug\net7.0\AT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT3\obj\Debug\net7.0\AT3.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT3\obj\Debug\net7.0\AT3.AssemblyInfo.cs
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT3\obj\Debug\net7.0\AT3.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT3\obj\Debug\net7.0\AT3.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT3\obj\Debug\net7.0\refint\AT3.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT3\obj\Debug\net7.0\AT3.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT3\obj\Debug\net7.0\AT3.genruntimeconfig.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT3\obj\Debug\net7.0\ref\AT3.dll

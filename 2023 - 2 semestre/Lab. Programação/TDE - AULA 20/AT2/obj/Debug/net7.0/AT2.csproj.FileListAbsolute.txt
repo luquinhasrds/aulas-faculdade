@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT2\bin\Debug\net7.0\AT2.exe
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT2\bin\Debug\net7.0\AT2.deps.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT2\bin\Debug\net7.0\AT2.runtimeconfig.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT2\bin\Debug\net7.0\AT2.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT2\bin\Debug\net7.0\AT2.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT2\obj\Debug\net7.0\AT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT2\obj\Debug\net7.0\AT2.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT2\obj\Debug\net7.0\AT2.AssemblyInfo.cs
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT2\obj\Debug\net7.0\AT2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT2\obj\Debug\net7.0\AT2.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT2\obj\Debug\net7.0\refint\AT2.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT2\obj\Debug\net7.0\AT2.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT2\obj\Debug\net7.0\AT2.genruntimeconfig.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT2\obj\Debug\net7.0\ref\AT2.dll

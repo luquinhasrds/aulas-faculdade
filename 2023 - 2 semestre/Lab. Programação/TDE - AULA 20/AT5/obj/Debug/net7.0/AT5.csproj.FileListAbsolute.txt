@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT5\obj\Debug\net7.0\AT5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT5\obj\Debug\net7.0\AT5.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT5\obj\Debug\net7.0\AT5.AssemblyInfo.cs
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT5\obj\Debug\net7.0\AT5.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT5\bin\Debug\net7.0\AT5.exe
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT5\bin\Debug\net7.0\AT5.deps.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT5\bin\Debug\net7.0\AT5.runtimeconfig.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT5\bin\Debug\net7.0\AT5.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT5\bin\Debug\net7.0\AT5.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT5\obj\Debug\net7.0\AT5.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT5\obj\Debug\net7.0\refint\AT5.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT5\obj\Debug\net7.0\AT5.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT5\obj\Debug\net7.0\AT5.genruntimeconfig.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\TDE - AULA 20\AT5\obj\Debug\net7.0\ref\AT5.dll
