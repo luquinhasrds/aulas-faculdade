@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\AS parte2\AS_Parte2\bin\Debug\net7.0\AS_Parte2.exe
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\AS parte2\AS_Parte2\bin\Debug\net7.0\AS_Parte2.deps.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\AS parte2\AS_Parte2\bin\Debug\net7.0\AS_Parte2.runtimeconfig.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\AS parte2\AS_Parte2\bin\Debug\net7.0\AS_Parte2.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\AS parte2\AS_Parte2\bin\Debug\net7.0\AS_Parte2.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\AS parte2\AS_Parte2\obj\Debug\net7.0\AS_Parte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\AS parte2\AS_Parte2\obj\Debug\net7.0\AS_Parte2.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\AS parte2\AS_Parte2\obj\Debug\net7.0\AS_Parte2.AssemblyInfo.cs
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\AS parte2\AS_Parte2\obj\Debug\net7.0\AS_Parte2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\AS parte2\AS_Parte2\obj\Debug\net7.0\AS_Parte2.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\AS parte2\AS_Parte2\obj\Debug\net7.0\refint\AS_Parte2.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\AS parte2\AS_Parte2\obj\Debug\net7.0\AS_Parte2.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\AS parte2\AS_Parte2\obj\Debug\net7.0\AS_Parte2.genruntimeconfig.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 2 semestre\Lab. Programação\AS parte2\AS_Parte2\obj\Debug\net7.0\ref\AS_Parte2.dll
