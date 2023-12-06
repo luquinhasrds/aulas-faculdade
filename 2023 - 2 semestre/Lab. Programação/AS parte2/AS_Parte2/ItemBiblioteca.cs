@@ -1,11 +1,11 @@
-public abstract class ItemBiblioteca{
-    public int Id { get; set; }
-    public string? Titulo { get; set; }
-    protected string? DescricaoInterna { get; set; }
+public abstract class ItemBiblioteca{    //CLASS
+    public int Id { get; set; }   //ID
+    public string? Titulo { get; set; }  //TITULO
+    protected string? DescricaoInterna { get; set; }  //DESCRIÇÃO
 
-    public ItemBiblioteca(int id, string titulo){
+    public ItemBiblioteca(int id, string titulo){   //CONSTRUTOR
         this.Id = id;
         this.Titulo = titulo;
         DescricaoInterna = "descrição";
     }
-}
+}  //FECHAMENTO DA CLASSE

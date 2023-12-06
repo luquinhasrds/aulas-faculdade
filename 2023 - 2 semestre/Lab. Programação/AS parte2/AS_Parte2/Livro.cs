@@ -1,6 +1,6 @@
-public class Livro : ItemBiblioteca{
-    public string? Autor { get; set; }
-    public Livro(int id, string titulo, string autor, string descricaoInterna) : base(id, titulo){
+public class Livro : ItemBiblioteca{  //CLASSE COM HERANÇA 
+    public string? Autor { get; set; }  //AUTOR
+    public Livro(int id, string titulo, string autor, string descricaoInterna) : base(id, titulo){  //CONSTRUTOR TRAZENDO A HERANCA
         this.Autor = autor;
         DescricaoInterna = descricaoInterna;
     }
@@ -8,4 +8,4 @@ public class Livro : ItemBiblioteca{
         Console.WriteLine();
         Console.WriteLine(DescricaoInterna);
     }
-}
+}  //FECHAMENTO DA CLASSE
