@@ -1,0 +1,18 @@
+
+O projeto é um sistema simples para gerenciamento de livros em uma biblioteca utilizando POO. existe 3 classes principais, ItemBiblioteca, Livro, Biblioteca.
+
+Class ItemBiblioteca{
+	A classe abstrata usada como base para outros itens da biblioteca. tem prorpiodades como ID, TITULO, e a propriedade protegida chamada DESCRICAOINTERNA.
+}
+
+Class Livro{
+	a classe Livro herda de ItemBiblioteca e adiciona mais uma propriedade chamada AUTOR. Tem um construtor que inializa as propriedades da classe base e da propria do livro. e tambem possui um metodo EXIBIRDESCRICAOINTERNA para imprimir a descrição do livro.
+}
+
+Class Biblioteca{
+	A classe Biblioteca gerencia uma colecao de itens da biblioteca em listas. contem alguns metodos simples para adicionar(AdicionarItem) e remover(RemoverItem) item da coleção. possui algum metodos sobrecarregados para buscar um livro por titulo ou id  chamada (BuscarLivro()).
+}
+
+Class Program{
+	o program faz a utilização de todas as classe anteriores, aqui se cria instancias de biblioteca e livro, adiciona livros a bibliotexa e realiza buscar por livros.
+}

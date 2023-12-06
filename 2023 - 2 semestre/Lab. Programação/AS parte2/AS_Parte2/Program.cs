@@ -16,7 +16,9 @@ biblioteca2.AdicionarItem(livro3);
 biblioteca1.BuscarLivro(2);
 biblioteca1.BuscarLivro("O Senhor Dos Aneis");
 
+//EXIBE A DESCRIÇAO
 livro1.ExibirDescricaoInterna();
 livro2.ExibirDescricaoInterna();
 
+//REMOVE UM LIVRO
 biblioteca2.RemoverItem(livro3);
