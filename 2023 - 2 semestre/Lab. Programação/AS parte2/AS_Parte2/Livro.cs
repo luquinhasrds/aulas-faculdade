@@ -5,6 +5,7 @@ public class Livro : ItemBiblioteca{
         DescricaoInterna = descricaoInterna;
     }
     public void ExibirDescricaoInterna(){
+        Console.WriteLine();
         Console.WriteLine(DescricaoInterna);
     }
 }
