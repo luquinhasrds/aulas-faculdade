@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT1\bin\Debug\net7.0\AT1.exe
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT1\bin\Debug\net7.0\AT1.deps.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT1\bin\Debug\net7.0\AT1.runtimeconfig.json
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT1\bin\Debug\net7.0\AT1.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT1\bin\Debug\net7.0\AT1.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT1\obj\Debug\net7.0\AT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT1\obj\Debug\net7.0\AT1.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT1\obj\Debug\net7.0\AT1.AssemblyInfo.cs
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT1\obj\Debug\net7.0\AT1.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT1\obj\Debug\net7.0\AT1.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT1\obj\Debug\net7.0\refint\AT1.dll
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT1\obj\Debug\net7.0\AT1.pdb
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT1\obj\Debug\net7.0\AT1.genruntimeconfig.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT1\obj\Debug\net7.0\ref\AT1.dll

@@ -1,0 +1,4 @@
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT3\obj\Debug\net7.0\AT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT3\obj\Debug\net7.0\AT3.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT3\obj\Debug\net7.0\AT3.AssemblyInfo.cs
+C:\Users\lucas\Documents\ULBRA - Torres\aulas-faculdade\2023 - 3 semestre\Modelagem de Software\aula 1\AT3\obj\Debug\net7.0\AT3.csproj.CoreCompileInputs.cache
